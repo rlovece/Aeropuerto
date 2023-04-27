@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccdc9561-0e2d-4b4b-900c-60f2cb23f571" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AeropuertoRuth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Aeropuerto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Cargueros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Comercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Consola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/EstadosAvion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Hangar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Militar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Privado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/ProductosCarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Seguridad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/Servicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/ServiciosComercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Ruth/clases/SistemaArmas.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OyXJFrgGlpk7Ywu74qwFwoLVDF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccdc9561-0e2d-4b4b-900c-60f2cb23f571" name="Changes" comment="" />
+      <created>1682533726717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682533726717</updated>
+      <workItem from="1682533727902" duration="16294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ruth/clases/Comercial.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

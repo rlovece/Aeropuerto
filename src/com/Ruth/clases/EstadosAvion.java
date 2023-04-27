@@ -1,0 +1,5 @@
+package com.Ruth.clases;
+
+public enum EstadosAvion {
+    ESTACIONADO, VOLANDO, VOLANDO_COMIENDO, DESPEGANDO, ATERRIZANDO, ESTACIONADO_DESCANGANDO
+}
